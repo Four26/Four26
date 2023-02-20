@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋 I am Franklin Abonero.<br>An aspiring web developer.
+<h1>Hi 👋 I am Franklin Abonero.</h1>
+<h2>An aspiring web developer.</h2>
 
 
 ## 🌐 Socials:
