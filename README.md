@@ -16,7 +16,6 @@
 ![Four26's GitHub stats](https://github-readme-stats-four26.vercel.app/api?username=Four26&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Four26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Four26&theme=tokyonight&hide_border=true)</br>
 [![Top Langs](https://github-readme-stats-four26.vercel.app/api/top-langs/?username=Four26&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Four26&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Four26&color=green)
 
