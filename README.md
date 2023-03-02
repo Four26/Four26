@@ -1,6 +1,11 @@
-<h2>Hi 👋 I am Franklin Abonero.</h2>
-<h2>An aspiring web developer.</h2>
+<h1 align="center">Hi 👋 I am Franklin Abonero.</h1>
+<h2 align="center">An aspiring web developer.</h2>
 
+### 🙋 About Me
+- 🎯I'm currently attending bootcamp at [**Village88**](https://Village88.com/).
+- 🌱 I’m currently learning **PHP** and **JavaScript**.
+- 🔨 I'm currently working on my portfolio website.
+- 🤝 I’m looking to collaborate on **Open Source Projects**.
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/frank.abonero20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fouraofficial22/) 
